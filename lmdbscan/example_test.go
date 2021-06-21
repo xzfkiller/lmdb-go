@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"log"
 
-	"github.com/yiqianbao/lmdb-go/lmdb"
-	"github.com/yiqianbao/lmdb-go/lmdbscan"
+	"github.com/xzfkiller/lmdb-go/lmdb"
+	"github.com/xzfkiller/lmdb-go/lmdbscan"
 )
 
 var env *lmdb.Env

@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/yiqianbao/lmdb-go/lmdb"
+	"github.com/xzfkiller/lmdb-go/lmdb"
 )
 
 var flagPrintVersion bool

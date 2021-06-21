@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/yiqianbao/lmdb-go/lmdb"
+	"github.com/xzfkiller/lmdb-go/lmdb"
 )
 
 // These values shouldn't actually be assigned to.  The are used as stand-ins

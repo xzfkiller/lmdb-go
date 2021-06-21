@@ -1,4 +1,4 @@
-module github.com/yiqianbao/lmdb-go
+module github.com/xzfkiller/lmdb-go
 
 go 1.14
 
